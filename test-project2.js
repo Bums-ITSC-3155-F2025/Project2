@@ -30,7 +30,7 @@ function testProject2() {
     return true;
   }
 
-// ********************* Test MakeMultiFilter
+// ********************* Test MakeMultiFilter - done
 
   if (typeof MakeMultiFilter !== 'function') {
     console.error('MakeMultiFilter is not a function', typeof MakeMultiFilter);
